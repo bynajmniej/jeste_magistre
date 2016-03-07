@@ -1,2 +1,2 @@
 # jeste_magistre
-test
+<kawa>
