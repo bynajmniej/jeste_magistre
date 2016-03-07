@@ -1,2 +1,2 @@
 # jeste_magistre
-<kawa>
+<dog>
